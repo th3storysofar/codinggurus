@@ -2,7 +2,7 @@
 Team: Coding Gurus
 Problem: Create a Menu and display test orders
 
-Project Proposal
+##Project Proposal
 1.Problem Description: Write and design a program that prompts the user to create a menu for a restaurant. The program will ask for food/drink categories and how much each item costs. 
 
 2. Functional Description of major components (Class,subprograms, etc.)
